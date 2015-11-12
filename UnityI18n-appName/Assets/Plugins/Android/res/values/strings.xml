@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">这个名称会被Unity设置的名称所替换</string>
+
+</resources>
